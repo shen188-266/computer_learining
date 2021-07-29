@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617710091 source:f:\ccc\text\text\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617609309 source:f:\ccc\text\text\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

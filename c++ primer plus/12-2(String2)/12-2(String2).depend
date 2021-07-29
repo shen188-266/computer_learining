@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601627530 source:f:\ccc\c++ primer plus\12-2(string2)\main.cpp
+	<iostream>
+	"String2.h"
+
+1601626277 f:\ccc\c++ primer plus\12-2(string2)\string2.h
+	<iostream>
+
+1601626715 source:f:\ccc\c++ primer plus\12-2(string2)\string2.cpp
+	<cstring>
+	<cctype>
+	"String2.h"
+

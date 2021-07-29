@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600081592 source:f:\ccc\c++ primer plus\9-1\file.cpp
+	"myh"
+	<iostream>
+	<cstring>
+
+1600081022 f:\ccc\c++ primer plus\9-1\myh
+
+1600081592 source:f:\ccc\c++ primer plus\9-1\main.cpp
+	<iostream>
+	"myh"
+

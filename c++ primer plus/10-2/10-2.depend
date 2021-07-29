@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600358943 source:f:\ccc\c++ primer plus\10-2\10-2.cpp
+	"person.h"
+	<iostream>
+	<cstring>
+
+1600359160 f:\ccc\c++ primer plus\10-2\person.h
+	<string>
+	<iostream>
+
+1600359302 source:f:\ccc\c++ primer plus\10-2\main.cpp
+	<iostream>
+	"person.h"
+

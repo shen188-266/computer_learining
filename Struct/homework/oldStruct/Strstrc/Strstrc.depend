@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603367549 source:f:\ccc\struct\strstrc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603367781 source:f:\ccc\oldstruct\strstrc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

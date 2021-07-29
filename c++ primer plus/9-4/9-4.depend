@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600180064 source:f:\ccc\c++ primer plus\9-4.cpp
+	<cstring>
+	<iostream>
+	"9-4\ch94.h"
+
+1600179735 f:\ccc\c++ primer plus\9-4\ch94.h
+
+1600179692 source:f:\ccc\c++ primer plus\9-4\main.cpp
+	<iostream>
+	"ch94.h"
+

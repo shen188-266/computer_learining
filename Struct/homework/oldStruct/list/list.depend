@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603250165 source:f:\ccc\struct\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1603250007 f:\ccc\struct\list\list.h
+	<stdbool.h>
+	<stdio.h>
+
+1603250007 source:f:\ccc\struct\list\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+

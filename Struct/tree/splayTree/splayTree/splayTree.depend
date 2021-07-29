@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618376960 source:f:\ccc\struct\tree\splaytree\splaytree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603411800 source:f:\ccc\struct\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1603411773 f:\ccc\struct\stack\stack.h
+	<stdbool.h>
+
